@@ -1,0 +1,105 @@
+Matching Associated gradient  1
+mean z =   -0.203  mean z =  -0.111
+t =      -2.473     p =     0.02
+                       
+                       
+Non-Matching Non-Associated gradient  1
+mean z =   -0.277  mean z =  -0.199
+t =      -1.927     p =     0.065
+                       
+                       
+Matching_and_Non-Matching Associated_yes_and_no gradient  1
+mean z =   -0.254  mean z =  -0.163
+t =      -2.881     p =     0.008
+                       
+                       
+Matching_pm Associated_pm gradient  1
+mean z =   0.098  mean z =  -0.068
+t =      2.743     p =     0.011
+                       
+                       
+Matching_pm_neg Associated_pm_neg gradient  1
+mean z =   -0.098  mean z =  0.068
+t =      -2.743     p =     0.011
+                       
+                       
+Non-Matching_pm Non-Associated_pm gradient  1
+mean z =   -0.065  mean z =  0.124
+t =      -3.018     p =     0.006
+                       
+                       
+Non-Matching_vs_Matching-pm Associated_no_vs_yes_pm gradient  1
+mean z =   -0.118  mean z =  0.121
+t =      -3.921     p =     0.001
+                       
+                       
+Matching Associated gradient  2
+mean z =   0.063  mean z =  0.164
+t =      -2.349     p =     0.027
+                       
+                       
+Non-Matching Non-Associated gradient  2
+mean z =   0.157  mean z =  0.228
+t =      -1.556     p =     0.132
+                       
+                       
+Matching_and_Non-Matching Associated_yes_and_no gradient  2
+mean z =   0.117  mean z =  0.211
+t =      -2.211     p =     0.036
+                       
+                       
+Matching_pm Associated_pm gradient  2
+mean z =   -0.059  mean z =  -0.033
+t =      -0.38     p =     0.707
+                       
+                       
+Matching_pm_neg Associated_pm_neg gradient  2
+mean z =   0.059  mean z =  0.033
+t =      0.38     p =     0.707
+                       
+                       
+Non-Matching_pm Non-Associated_pm gradient  2
+mean z =   0.163  mean z =  -0.002
+t =      3.653     p =     0.001
+                       
+                       
+Non-Matching_vs_Matching-pm Associated_no_vs_yes_pm gradient  2
+mean z =   0.154  mean z =  0.014
+t =      2.502     p =     0.019
+                       
+                       
+Matching Associated gradient  3
+mean z =   -0.129  mean z =  -0.09
+t =      -1.579     p =     0.126
+                       
+                       
+Non-Matching Non-Associated gradient  3
+mean z =   -0.107  mean z =  -0.085
+t =      -0.685     p =     0.499
+                       
+                       
+Matching_and_Non-Matching Associated_yes_and_no gradient  3
+mean z =   -0.128  mean z =  -0.093
+t =      -1.396     p =     0.175
+                       
+                       
+Matching_pm Associated_pm gradient  3
+mean z =   0.118  mean z =  -0.029
+t =      2.58     p =     0.016
+                       
+                       
+Matching_pm_neg Associated_pm_neg gradient  3
+mean z =   -0.118  mean z =  0.029
+t =      -2.58     p =     0.016
+                       
+                       
+Non-Matching_pm Non-Associated_pm gradient  3
+mean z =   -0.204  mean z =  -0.008
+t =      -3.646     p =     0.001
+                       
+                       
+Non-Matching_vs_Matching-pm Associated_no_vs_yes_pm gradient  3
+mean z =   -0.213  mean z =  0.013
+t =      -4.162     p =     0.0
+                       
+                       

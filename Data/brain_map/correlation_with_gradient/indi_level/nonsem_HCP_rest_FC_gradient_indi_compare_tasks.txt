@@ -1,0 +1,60 @@
+spatial Hard_vs_Easy math Hard_vs_Easy gradient  1
+mean z =   0.002  mean z =  0.058
+t =      -1.052     p =     0.302
+                       
+                       
+spatial Easy_and_Hard math Easy_and_Hard gradient  1
+mean z =   0.246  mean z =  0.074
+t =      3.604     p =     0.001
+                       
+                       
+spatial Hard_vs_Easy math Hard_vs_Easy gradient  2
+mean z =   0.177  mean z =  0.29
+t =      -2.644     p =     0.014
+                       
+                       
+spatial Easy_and_Hard math Easy_and_Hard gradient  2
+mean z =   0.461  mean z =  0.334
+t =      3.23     p =     0.003
+                       
+                       
+spatial Hard_vs_Easy math Hard_vs_Easy gradient  3
+mean z =   0.244  mean z =  0.412
+t =      -4.266     p =     0.0
+                       
+                       
+spatial Easy_and_Hard math Easy_and_Hard gradient  3
+mean z =   0.387  mean z =  0.17
+t =      5.437     p =     0.0
+                       
+                       
+spatial Hard_vs_Easy math Hard_vs_Easy gradient  1
+mean z =   0.002  mean z =  0.058
+t =      -1.052     p =     0.302
+                       
+                       
+spatial Easy_and_Hard math Easy_and_Hard gradient  1
+mean z =   0.246  mean z =  0.074
+t =      3.604     p =     0.001
+                       
+                       
+spatial Hard_vs_Easy math Hard_vs_Easy gradient  2
+mean z =   0.177  mean z =  0.29
+t =      -2.644     p =     0.014
+                       
+                       
+spatial Easy_and_Hard math Easy_and_Hard gradient  2
+mean z =   0.461  mean z =  0.334
+t =      3.23     p =     0.003
+                       
+                       
+spatial Hard_vs_Easy math Hard_vs_Easy gradient  3
+mean z =   0.244  mean z =  0.412
+t =      -4.266     p =     0.0
+                       
+                       
+spatial Easy_and_Hard math Easy_and_Hard gradient  3
+mean z =   0.387  mean z =  0.17
+t =      5.437     p =     0.0
+                       
+                       

@@ -1,0 +1,72 @@
+spatial Hard_vs_Easy grad_1 = 0.0015374384633068219 ; grad_2 = 0.17731811369355094 
+spatial Hard_vs_Easy grad 1 vs grad 2 
+mean grad 1 =   0.002  mean grad 2 =   0.177
+t =      -3.1     p =     0.005
+                       
+                       
+math Hard_vs_Easy grad_1 = 0.05778755315085532 ; grad_2 = 0.28987642906049843 
+math Hard_vs_Easy grad 1 vs grad 2 
+mean grad 1 =   0.058  mean grad 2 =   0.29
+t =      -3.883     p =     0.001
+                       
+                       
+spatial Hard_vs_Easy grad_1 = 0.0015374384633068219 ; grad_3 = 0.24390357480837407 
+spatial Hard_vs_Easy grad 1 vs grad 3 
+mean grad 1 =   0.002  mean grad 3 =   0.244
+t =      -4.993     p =     0.0
+                       
+                       
+math Hard_vs_Easy grad_1 = 0.05778755315085532 ; grad_3 = 0.4117536543130576 
+math Hard_vs_Easy grad 1 vs grad 3 
+mean grad 1 =   0.058  mean grad 3 =   0.412
+t =      -6.339     p =     0.0
+                       
+                       
+spatial Hard_vs_Easy grad_2 = 0.17731811369355094 ; grad_3 = 0.24390357480837407 
+spatial Hard_vs_Easy grad 2 vs grad 3 
+mean grad 2 =   0.177  mean grad 3 =   0.244
+t =      -1.723     p =     0.097
+                       
+                       
+math Hard_vs_Easy grad_2 = 0.28987642906049843 ; grad_3 = 0.4117536543130576 
+math Hard_vs_Easy grad 2 vs grad 3 
+mean grad 2 =   0.29  mean grad 3 =   0.412
+t =      -2.683     p =     0.013
+                       
+                       
+spatial Easy_and_Hard grad_1 = 0.24550685843685546 ; grad_2 = 0.4608548013228192 
+spatial Easy_and_Hard grad 1 vs grad 2 
+mean grad 1 =   0.246  mean grad 2 =   0.461
+t =      -4.108     p =     0.0
+                       
+                       
+math Easy_and_Hard grad_1 = 0.07406183380070859 ; grad_2 = 0.3335706440840529 
+math Easy_and_Hard grad 1 vs grad 2 
+mean grad 1 =   0.074  mean grad 2 =   0.334
+t =      -5.34     p =     0.0
+                       
+                       
+spatial Easy_and_Hard grad_1 = 0.24550685843685546 ; grad_3 = 0.3869179566222417 
+spatial Easy_and_Hard grad 1 vs grad 3 
+mean grad 1 =   0.246  mean grad 3 =   0.387
+t =      -3.788     p =     0.001
+                       
+                       
+math Easy_and_Hard grad_1 = 0.07406183380070859 ; grad_3 = 0.16980304515297184 
+math Easy_and_Hard grad 1 vs grad 3 
+mean grad 1 =   0.074  mean grad 3 =   0.17
+t =      -1.829     p =     0.079
+                       
+                       
+spatial Easy_and_Hard grad_2 = 0.4608548013228192 ; grad_3 = 0.3869179566222417 
+spatial Easy_and_Hard grad 2 vs grad 3 
+mean grad 2 =   0.461  mean grad 3 =   0.387
+t =      1.896     p =     0.069
+                       
+                       
+math Easy_and_Hard grad_2 = 0.3335706440840529 ; grad_3 = 0.16980304515297184 
+math Easy_and_Hard grad 2 vs grad 3 
+mean grad 2 =   0.334  mean grad 3 =   0.17
+t =      3.036     p =     0.005
+                       
+                       

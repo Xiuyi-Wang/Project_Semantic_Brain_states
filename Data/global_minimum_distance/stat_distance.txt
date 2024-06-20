@@ -1,0 +1,9 @@
+each adjacent pair
+
+condition_names = ['feature only', 'feature MDN', 'association MDN', 'association only']  
+
+t, p 
+
+-210.68252949806677 5.1846577754053284e-278
+-51.94330309648033 6.481437667204393e-134
+-118.3729790862169 1.5302291279700498e-217
